@@ -1,0 +1,42 @@
+
+.CD{
+	position: absolute;
+	/*color: white;*/
+	text-align: center;
+	left: 0;
+	right: 0;
+	top: 150%;
+  	font-family: "Arial";
+ 	letter-spacing:-1px;
+ /*	font-size: 15%*/
+ 	
+ 	font-weight: bold;
+  },
+  .p1{
+  	font-size: 70%;
+  	position: absolute;
+	color: grey;
+	text-align: center;
+	left: 0;
+	right: 0;
+	top: 20%;
+  	font-family: "Arial";
+ 	letter-spacing: -3px;
+ 	font-weight: bold;
+  },
+  .CD1{
+	position: absolute;
+	/*color: white;*/
+	text-align: center;
+	left: 0;
+	right: 0;
+	top: 20%;
+ /* 	font-family: "Arial";
+ 	letter-spacing: -3px;
+ 	font-size: 370%;
+ 	font-weight: bold;*/
+  },
+@media (min-width: 768px) {
+  .p1	 {
+    font-size: 64px;
+  }

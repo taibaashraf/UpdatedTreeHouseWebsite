@@ -1,12 +1,12 @@
 
 .CD{
 	position: absolute;
-	/*color: white;*/
+	color: white;
 	text-align: center;
 	left: 0;
 	right: 0;
-	top: 150%;
-  	font-family: "Arial";
+	top: 20%;
+  	
  	letter-spacing:-1px;
  /*	font-size: 15%*/
  	
